@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-data_yaml_file="../../analysis/yolov7/plantdoc.yaml"
+data_yaml_file="../../analysis/yolov7/.yaml"
 cfg_yml_path="cfg/training/yolov7-e6e.yaml"
 cfg_yml_path2="cfg/training/yolov7.yaml"
 
